@@ -1,0 +1,146 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.for {
+    background-color: beige;
+    width: 300px;
+    height: 100px;
+    color: cadetblue;
+    font-size: 40px;
+    border-radius: 10px;
+    margin: 30px 0px 0px 600px;
+    display: flex;
+}
+.block-1 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: 110px 0px 0px 0px;
+}
+.a1-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a1-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a1-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
+.block-2 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: -270px 0px 0px 525px;
+}
+.a2-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a2-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a2-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
+.block-3 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: -270px 0px 0px 1050px;
+}
+.a3-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a3-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a3-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
+.block-4 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: 90px 0px 0px 0px;
+}
+.a4-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a4-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a4-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
+.block-5 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: -270px 0px 0px 525px;
+}
+.a5-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a5-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a5-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
+.block-6 {
+    background-color: aliceblue;
+    width: 500px;
+    height: 270px;
+    border-radius: 20px;
+    margin: -270px 0px 0px 1050px;
+}
+.a6-1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 35px 0px 0px 40px;
+}
+.a6-2 {
+    margin: -210px 0px 0px 250px;
+    font-size: larger;
+}
+.a6-3 {
+    width: 200px;
+    font-size: smaller;
+    margin: 20px 0px 0px 220px;
+}
